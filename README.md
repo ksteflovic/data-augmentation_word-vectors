@@ -11,7 +11,6 @@ We used two availabe datasets:
 ## Repository Contents
 The repository contains the following files:
 
-- 📁 **data**: This directory contains used datasets for the projects.
 - 📁 **notebook**: This directory contains the source code for the implementation of the proposed procedures.
 - 📁 **results**: This directory stores the evaluation results and performance metrics of the implemented classifiers as _.png_ and in _.csv_.
 
